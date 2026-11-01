@@ -26,7 +26,15 @@ Documentation is available at:
 
 ## Quick Start
 
-### Option 1: Online Installer
+### Option 0: Standard Install
+
+Boot from standard NixOS live environment and run:
+```bash
+chmod +x ./scripts/install-router.sh
+sudo ./scripts/install-router.sh
+```
+
+### Option 1: Online Installer (borked)
 
 Boot from standard NixOS ISO and run:
 
