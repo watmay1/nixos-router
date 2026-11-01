@@ -96,6 +96,9 @@ See `../webui/README.md` for full documentation.
 - Runs every 5 minutes to keep DNS in sync
 - Logs all IP changes to system journal
 
+### `duckdns-dyndns.nix`
+**TODO:TTES AND DOCUMENT**
+
 ### `users.nix`
 **User Account Management**
 - Creates system user account
